@@ -1,0 +1,67 @@
+{
+
+    "Users": [
+  
+      {
+  
+        "Name": "John Doe",
+  
+        "Activities": [
+  
+          {
+  
+            "LoginTime": "10:00 AM",
+  
+            "PagesVisited": ["Home", "Profile"],
+  
+            "Duration": "20 minutes"
+  
+          },
+  
+          {
+  
+            "LoginTime": "10:00 PM",
+  
+            "PagesVisited": ["Home"],
+  
+            "Duration": "30 minutes"
+  
+          }
+  
+        ]
+  
+      },
+  
+      {
+  
+        "Name": "Jane Smith",
+  
+        "Activities": [
+  
+          {
+  
+            "LoginTime": "11:00 AM",
+  
+            "PagesVisited": ["Dashboard", "Settings"],
+  
+            "Duration": "25 minutes"
+  
+          },
+  
+          {
+  
+            "LoginTime": "9:00 PM",
+  
+            "PagesVisited": ["Dashboard"],
+  
+            "Duration": "15 minutes"
+  
+          }
+  
+        ]
+  
+      }
+  
+    ]
+  
+  }
